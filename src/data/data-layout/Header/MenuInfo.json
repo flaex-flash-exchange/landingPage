@@ -1,0 +1,14 @@
+[
+  {
+    "path": "#about",
+    "nameLink": "About Us"
+  },
+  {
+    "path": "#features",
+    "nameLink": "Features"
+  },
+  {
+    "path": "#roadmap",
+    "nameLink": "Roadmap"
+  }
+]

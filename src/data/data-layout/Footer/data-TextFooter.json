@@ -1,0 +1,34 @@
+[
+  {
+    "title": "PRODUCTS",
+    "text1": "Margin Trade",
+    "link1": "https://app.flaexc.com/trade",
+    "text2": "Invest",
+    "link2": "https://app.flaexc.com/invest",
+    "text3": "Staking",
+    "link3": "https://app.flaexc.com/staking",
+    "classBlock": "col-12 col-lg-3 col-md-6",
+    "classInfo": "contact_info mt-x text-center fadeInUp"
+  },
+  {
+    "title": "DEVELOPERS",
+    "text1": "Whitepaper",
+    "link1": "https://flaexc.com/whitepaper",
+    "text2": "Github",
+    "link2": "https://github.com/flaex-flash-exchange/SmartContract",
+    "text3": "Audit",
+    "classBlock": "col-12 col-lg-2 col-md-6",
+    "classInfo": "contact_info mt-s text-center fadeInUp"
+  },
+  {
+    "title": "COMMUNITY",
+    "text1": "Twitter",
+    "link1": "https://twitter.com/flaexc",
+    "text2": "Telegram",
+    "link2": "https://t.me/flaexofficial",
+    "text3": "Medium",
+    "link3": "https://medium.com/@flaex",
+    "classBlock": "col-12 col-lg-3 col-md-6",
+    "classInfo": "contact_info mt-s text-center fadeInUp"
+  }
+]
