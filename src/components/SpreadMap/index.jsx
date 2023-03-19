@@ -13,7 +13,7 @@ const SpreadMap = ({ Wwhitepaper, SectionIcon11 }) => {
               <div className="dream-dots text-left">
                 <img draggable="false" src={SectionIcon11} alt="" />
               </div>
-              <h4 className="text-white">Downoad Our Whitepaper</h4>
+              <h4 className="text-white">Download Our Whitepaper</h4>
               <p className="text-white">Curious to learn how we facilitate our Trading Exchange?</p>
               <a className="btn dream-btn mt-30" href="/whitepaper">
                 Get Whitepaper

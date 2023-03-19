@@ -20,7 +20,7 @@ const SecHeroSection = ({
                   Protocols to create something truly remarkable!
                 </p>
                 <div className="dream-btn-group fadeInUp" data-wow-delay="0.4s">
-                  <a href="https://app.flaex.io/" className="btn more-btn mr-3">
+                  <a href="https://flaex.io/trade" className="btn more-btn mr-3">
                     {link1}
                   </a>
                 </div>

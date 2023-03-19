@@ -1,7 +1,7 @@
 import { useEffect } from "react";
 import { addRemoveClassBody } from "../../utils";
 
-import { Services } from "../../data/data-containers/HomeDemo4/data-HomeDemo4.js";
+import { Services, OurPartnersInfo } from "../../data/data-containers/HomeDemo4/data-HomeDemo4.js";
 
 // import PlatformIco from "../../data/data-containers/HomeDemo4/data-PlatformIco.json";
 import RoadmapInfo from "../../data/data-containers/HomeDemo4/data-RoadmapInfo.json";
@@ -18,6 +18,7 @@ import AboutOther from "../../components/AboutOther";
 import SpreadMap from "../../components/SpreadMap";
 import Roadmap from "../../components/Roadmap";
 // import OurTeam from "../../components/OurTeam";
+import OurPartners from "../../components/OurPartners";
 
 import OurServices from "./OurServices";
 // import OurPlatform from "./OurPlatform";
@@ -42,7 +43,8 @@ const HomeDemo4Container = () => {
       <AboutOther ClassTitle="gradient-text" />
       <SpreadMap Wwhitepaper={HomeDemo4Wwhitepaper} />
       <Roadmap data={RoadmapInfo} ClassSpanTitle="gradient-text blue" />
-      {/* <OurTeam data={OurTeamInfo} ClassSpanTitle="gradient-text blue" /> */}
+      {/* <OurTeam data={OurPartners} ClassSpanTitle="gradient-text blue" /> */}
+      <OurPartners data={OurPartnersInfo} ClassSpanTitle="gradient-text blue" />
       {/* <Subscribe /> */}
       {/* <OurBlog data={OurBlogInfo} ClassSpanTitle="gradient-text blue" /> */}
       <FooterPages ClassSpanTitle="gradient-text blue" />

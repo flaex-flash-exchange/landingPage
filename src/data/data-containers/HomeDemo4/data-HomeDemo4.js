@@ -25,6 +25,8 @@ import {
   // HomeDemo4Feature6,
   HomeDemo4Feature7,
   // HomeDemo4Feature8,
+  aave,
+  uniswap,
 } from "../../../utils/allImgs";
 
 export const TokenFeaturesTop = [
@@ -123,6 +125,19 @@ export const OurTeamInfo = [
   //   title: "Johan Wright",
   //   text: "Head of Marketing",
   // },
+];
+
+export const OurPartnersInfo = [
+  {
+    img: aave,
+    title: "Aave",
+    text: "Builder Granter",
+  },
+  {
+    img: uniswap,
+    title: "Uniswap",
+    text: "Liquidity Partner",
+  },
 ];
 
 export const OurBlogInfo = [
